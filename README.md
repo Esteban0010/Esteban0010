@@ -12,11 +12,11 @@
 
 <H1>👇Si tienes alguna inquietud, Contactame👇</H1>
 
-✉️ estebanpilchuman@gmail.com
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img   alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1662985527/Repositorio/gmail-small_qtecee.png" height="50" width="50"></a> estebanpilchuman@gmail.com
 
 <b>Redes </b>
 
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img   alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1662985527/Repositorio/gmail-small_qtecee.png" height="50" width="50"></a>
+
 <a href="https://www.linkedin.com/in/esteban-pilchuman-878bb021a/" target="_blank" rel="noreferrer"><img   alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1662985505/Repositorio/linkedin-small_ulvnlb.png" height="50" width="50"></a>
 <a href="https://discord.gg/s8dvJVv9" target="_blank" rel="noreferrer"><img   alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1662985506/Repositorio/discord-small_zxdumb.png" height="50" width="50"></a>
 
