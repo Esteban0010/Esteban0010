@@ -10,7 +10,7 @@
 <b>Skill</b>
 
 
-👇<H1>Si tienes alguna inquietud, Contactame</H1>👇
+<H1>👇Si tienes alguna inquietud, Contactame👇</H1>
 
 ✉️ estebanpilchuman@gmail.com
 
