@@ -5,7 +5,10 @@
 
 <a>Vivo en Neuquen, Argentina </a>
 
-<a></a>
+  Actualmente estoy capacitado para manejar las siguientes tegnologias 
+- HTML y CSS, JavaScript, React, Redux, Node.js, Express, PostgreSQL, Sequelize.
+
+🙋‍♂️Me caracteriza la predispocicion a aprender nuevas tegnologias, autodidacta en el area del diseño y dibujo. 
 
 <b>Skill</b>
 
