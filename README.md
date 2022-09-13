@@ -1,5 +1,5 @@
 
-<img src="https://mott.pe/uploads/images/2014/12/22/compu01.gif" height="400" width="1200"/>
+<img src="https://mott.pe/uploads/images/2014/12/22/compu01.gif" height="200" width="600"/>
 <!-- ![portada](https://programmerclick.com/images/764/d963b866b9df02ad89b354a3b23dfafc.gif) -->
 
 
