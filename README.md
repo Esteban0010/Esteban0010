@@ -14,6 +14,12 @@
 
 ✉️ estebanpilchuman@gmail.com
 
+<b>Redes </b>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img   alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1662985527/Repositorio/gmail-small_qtecee.png" height="50" width="50"></a>
+<a href="https://nodejs.org/en/](https://www.linkedin.com/in/esteban-pilchuman-878bb021a/" target="_blank" rel="noreferrer"><img   alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1662985505/Repositorio/linkedin-small_ulvnlb.png" height="50" width="50"></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img   alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1662985506/Repositorio/discord-small_zxdumb.png" height="50" width="50"></a>
+
+
 <p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img   alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1662985507/Repositorio/node-small_tvf36p.png" height="50" width="50"></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1662985509/Repositorio/React-small_b8kikx.png" height="50" width="50"></a>
