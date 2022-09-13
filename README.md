@@ -5,7 +5,7 @@
 
 <a>Vivo en Neuquen, Argentina </a>
 
-<a>Actualmente, mis conocimientos me permiten desarrollar y trabajar en las siguientes tecnologías.</a>
+<a></a>
 
 <b>Skill</b>
 
