@@ -14,10 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1662985507/Repositorio/node-small_tvf36p.png" height="80" width="80">
-<img alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1662985509/Repositorio/React-small_b8kikx.png" height="80" width="80">
-<img alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1662985508/Repositorio/Redux-small_gbwygr.png" height="80" width="80">
-<img alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1662985504/Repositorio/JavaScrip-small_hrfkhu.png" height="80" width="80">
-<img alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1663069080/Repositorio/PostgreSQL-small_rtkhyc.png" height="80" width="80">
-<img alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1663069078/Repositorio/html5-small_m6oqsw.png" height="80" width="80">
-<img alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1663069078/Repositorio/Css3-small_b7zkc1.png" height="80" width="80">
+<img alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1662985507/Repositorio/node-small_tvf36p.png" height="80" width="80"><img alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1662985509/Repositorio/React-small_b8kikx.png" height="80" width="80"><img alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1662985508/Repositorio/Redux-small_gbwygr.png" height="80" width="80"><img alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1662985504/Repositorio/JavaScrip-small_hrfkhu.png" height="80" width="80"><img alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1663069080/Repositorio/PostgreSQL-small_rtkhyc.png" height="80" width="80"><img alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1663069078/Repositorio/html5-small_m6oqsw.png" height="80" width="80"><img alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1663069078/Repositorio/Css3-small_b7zkc1.png" height="80" width="80">
