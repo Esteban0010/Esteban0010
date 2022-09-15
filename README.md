@@ -38,6 +38,7 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1663069080/Repositorio/PostgreSQL-small_rtkhyc.png" height="50" width="50"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1663069078/Repositorio/html5-small_m6oqsw.png" height="50" width="40"></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1663069078/Repositorio/Css3-small_b7zkc1.png" height="50" width=40"></a>
+   <a><img src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1663184914/Repositorio/Sequelize_-small_wsx5ox.png" height="50" width="50"></a>
   </p>
 
 
