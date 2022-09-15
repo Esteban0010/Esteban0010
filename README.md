@@ -36,8 +36,8 @@
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1662985508/Repositorio/Redux-small_gbwygr.png" height="50" width="50"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1662985504/Repositorio/JavaScrip-small_hrfkhu.png" height="50" width="50"></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1663069080/Repositorio/PostgreSQL-small_rtkhyc.png" height="50" width="50"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1663069078/Repositorio/html5-small_m6oqsw.png" height="50" width="50"></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1663069078/Repositorio/Css3-small_b7zkc1.png" height="50" width="50"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1663069078/Repositorio/html5-small_m6oqsw.png" height="50" width="40"></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1663069078/Repositorio/Css3-small_b7zkc1.png" height="50" width=40"></a>
   </p>
 
 
