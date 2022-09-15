@@ -18,7 +18,7 @@
 <b>Skill</b>
 
 
-<H1>👇Si tienes alguna inquietud,<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=000000&width=435&height=300&lines=Contra;Contactame"/>👇</H1>
+<H1>👇Si tienes alguna inquietud,<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=000000&width=435&height=60&lines=Contra;Contactame"/>👇</H1>
 
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" rel="noreferrer"><img   alt="logo-js" src="https://res.cloudinary.com/ddroxn7iv/image/upload/v1662985527/Repositorio/gmail-small_qtecee.png" height="20" width="20"></a> estebanpilchuman@gmail.com
 
